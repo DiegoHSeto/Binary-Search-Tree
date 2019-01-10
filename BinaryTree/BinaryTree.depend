@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1547145904 source:c:\users\win_7_ultimate\desktop\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1547145962 source:c:\users\win_7_ultimate\desktop\binarytree\tree.c
+	"tree.h"
+
+1547145761 c:\users\win_7_ultimate\desktop\binarytree\tree.h
+	<stdio.h>
+	<stdlib.h>
+
